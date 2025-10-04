@@ -12,6 +12,7 @@ A simple Python desktop application to **merge and split PDF files** using **Tki
 
 ---
 
+
 ## Installation
 
 1. Make sure you have **Python 3** installed:  
@@ -20,8 +21,8 @@ A simple Python desktop application to **merge and split PDF files** using **Tki
 2. Install the required Python library:
 
 ```bash
-pip install PyPDF2```
-
+pip install PyPDF2
+```
 
 ## Usage
 
@@ -31,3 +32,4 @@ pip install PyPDF2```
 
 ```bash
 python pdf_tool.py
+```
