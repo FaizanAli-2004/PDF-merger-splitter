@@ -20,7 +20,7 @@ A simple Python desktop application to **merge and split PDF files** using **Tki
 2. Install the required Python library:
 
 ```bash
-pip install PyPDF2
+pip install PyPDF2```
 
 
 ## Usage
