@@ -4,6 +4,12 @@ A simple Python desktop application to **merge and split PDF files** using **Tki
 
 ---
 
+
+## 🎥 Demo
+ **Watch the tool in action** [▶️ YouTube Demo](https://www.youtube.com/watch?v=LaM374dMVLY) *(shows the full functionality and interface of the PDF Merger & Splitte.)*
+
+---
+
 ## Features
 
 - **Merge PDFs**: Select two PDF files and combine them into a single PDF.  
